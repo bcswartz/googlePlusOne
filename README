@@ -1,0 +1,3 @@
+This is a Mango Blog (http://www.mangoblog.org/) plugin that will add the Google "+1" button and counter to the bottom of your Mango Blog posts.
+
+I was able to write this plugin (having never written a Mango Blog plugin before) by following the example set by Nick Simone's Twitter Retweet plugin (http://4thwavedesign.com/blog/post.cfm/offical-twitter-retweet-button), which adds a similar Twitter button to blog posts, so I wanted to cite him and his work here.
